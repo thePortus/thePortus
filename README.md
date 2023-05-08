@@ -5,7 +5,6 @@
 [Portfolio](https://theportus.github.io)
   
 
-- 🔭 I’m currently looking for work
 
 - 🌱 I’m building an app to house information on medieval conference presentations   
   
