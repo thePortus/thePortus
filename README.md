@@ -3,11 +3,6 @@
 [thePort.us](https://theport.us)
 
 [Portfolio](https://theportus.github.io)
-  
-
-
-- 🌱 I’m building an app to house information on medieval conference presentations   
-  
 
 <br/>  
 
